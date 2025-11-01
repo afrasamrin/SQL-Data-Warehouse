@@ -35,7 +35,9 @@ In this project:
 - Finally, business-friendly tables/aggregations are produced in the **Gold** stage.  
 This layered approach helps with traceability, auditability, reuse, and separation of concerns.
 
-![Medallion Architecture](https://github.com/afrasamrin/SQL-Data-Warehouse/blob/main/Data%20Flow.jpg)
+![Medallion Architecture](https://github.com/afrasamrin/SQL-Data-Warehouse/blob/main/ETL%20Data%20Architecture%20(1).jpg)
+
+![Integration Model](https://github.com/afrasamrin/SQL-Data-Warehouse/blob/main/Data%20Flow.jpg)
 
 
 
