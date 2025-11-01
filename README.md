@@ -36,7 +36,7 @@ In this project:
 This layered approach helps with traceability, auditability, reuse, and separation of concerns.
 
 ![Medallion Architecture](ETL Data Architecture (1).jpg)
-![Integration Model](Data Flow.jpg)
+
 
 
 
