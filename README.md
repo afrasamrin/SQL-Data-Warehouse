@@ -35,7 +35,7 @@ In this project:
 - Finally, business-friendly tables/aggregations are produced in the **Gold** stage.  
 This layered approach helps with traceability, auditability, reuse, and separation of concerns.
 
-![Medallion Architecture](ETL Data Architecture (1).jpg)
+![Medallion Architecture](ETL Data Architecture(1).jpg)
 
 
 
