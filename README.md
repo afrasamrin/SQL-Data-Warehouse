@@ -4,16 +4,6 @@
 ## 📄 Table of Contents  
 - [Project Overview](#project-overview)  
 - [Architecture – Medallion Layers](#architecture--medallion-layers)  
-- [Folder & File Structure](#folder--file-structure)  
-- [How to Run / Setup](#how-to-run--setup)  
-- [Layer Details](#layer-details)  
-  - [Bronze Layer](#bronze-layer)  
-  - [Silver Layer](#silver-layer)  
-  - [Gold Layer](#gold-layer)  
-- [Technologies Used](#technologies-used)  
-- [Future Enhancements](#future-enhancements)  
-- [Contributing](#contributing)  
-- [License](#license)  
 
 
 ## Project Overview  
@@ -38,6 +28,8 @@ This layered approach helps with traceability, auditability, reuse, and separati
 ![Medallion Architecture](https://github.com/afrasamrin/SQL-Data-Warehouse/blob/main/ETL%20Data%20Architecture%20(1).jpg)
 
 ![Integration Model](https://github.com/afrasamrin/SQL-Data-Warehouse/blob/main/Data%20Flow.jpg)
+
+
 
 
 
